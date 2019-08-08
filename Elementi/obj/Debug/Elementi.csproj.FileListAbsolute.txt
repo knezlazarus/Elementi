@@ -1,0 +1,11 @@
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\bin\Debug\ZadatakPosao.exe.config
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\bin\Debug\ZadatakPosao.exe
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\bin\Debug\ZadatakPosao.pdb
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\bin\Debug\EntityFramework.dll
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\bin\Debug\EntityFramework.xml
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\obj\Debug\Elementi.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\obj\Debug\Elementi.csproj.CopyComplete
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\obj\Debug\ZadatakPosao.exe
+C:\Users\Milos\Desktop\ZadatakPosao\ZadatakPosao\obj\Debug\ZadatakPosao.pdb
